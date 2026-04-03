@@ -8,9 +8,7 @@
 # Software Foundation; either version 2, or (at your option) any later
 # version.
 #===============================================================================
-
-VERSION = "0.2r1"
-
+import random
 from Plugins.Plugin import PluginDescriptor
 from Screens.Screen import Screen
 from Components.Sources.CanvasSource import CanvasSource
@@ -19,9 +17,8 @@ from Components.Label import Label
 from Components.ActionMap import ActionMap
 from Tools.Directories import resolveFilename, SCOPE_CURRENT_PLUGIN
 from enigma import eTimer
-import xml.etree.cElementTree
-import random
-from six.moves import range
+
+VERSION = "0.2r1"
 
 #good old C function :D
 
