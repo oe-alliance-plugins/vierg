@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Four wins game",
+  "description_recipe": "Four wins game",
+  "history_source_dir": "vierg",
+  "internal_package_name": "enigma2-plugin-extensions-vierg",
+  "module_dir_name": "vierg",
+  "output_subdir": "vierg",
+  "package_name": "enigma2-plugin-extensions-vierg",
+  "plugin_src_rel": "vierg",
+  "python_package": "vierg",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "vierg",
+  "rrecommends": "",
+  "rreplaces": ""
+}
